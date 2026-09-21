@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Manish</h1>
-<h3 align="center">A passionate learner building a strong foundation in Software Development</h3>
+<h3 align="center">A passionate learner building a strong foundation in Software Engineer</h3>
 
 ---
 
