@@ -23,7 +23,6 @@
 
 ### 📊 My GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manishsingh500&show_icons=true&theme=tokyonight&hide_border=true" alt="Manish's GitHub Stats" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=manishsingh500&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
